@@ -3,10 +3,11 @@
     "description": "",
     "creators": [
         {
-            "name": "Multiple Contributors"
+            "name": "Jason Steffener"
         }
     ],
     "version": "2020-08-20T20:47:39.429850",
+    "privacy": "open",
     "types": [
         {
             "information": {
@@ -31,7 +32,12 @@
                 "value": "MB"
             },
             "access": {
-                "landingPage": "https://osf.io/pny28/"
+                "landingPage": "https://osf.io/pny28/",
+                "authorizations": [
+                  {
+                    "value": "public"
+                  }
+                ]
             },
             "formats": [
                 "N/A"
@@ -75,7 +81,7 @@
             "category": "CONP_status",
             "values": [
                 {
-                    "value": "CONP"
+                    "value": "Canadian"
                 }
             ]
         }
